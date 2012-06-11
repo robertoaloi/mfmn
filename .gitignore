@@ -1,0 +1,8 @@
+*.beam
+.eunit
+deps/*
+apps/mfmn/ebin
+*~
+dev/*
+doc/*
+rel/mfmn
